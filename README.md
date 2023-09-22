@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **nasamujesse@gmail.com**
 
-- ⚡ Fun fact **Not so fun fact, 'Programming' Debugging is fun'**
+- ⚡ Fun fact **Not so fun fact, Web Design is fun'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
