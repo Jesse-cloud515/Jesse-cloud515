@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/jessenasamu" target="blank"><img src="https://img.shields.io/twitter/follow/jessenasamu?logo=twitter&style=for-the-badge" alt="jessenasamu" /></a> </p>
 
-- 🔭 I’m currently working on **NCAIR SB4KIDS Website**
+- 🔭 I’m currently working on a **Malware Detection program using Machine Learning **
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Back-end and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Design and Web Development projects**
+- 👯 I’m looking to collaborate on **Web Design, Web Development and Machine Learning projects**
 
 - 💬 Ask me about **figma, python, html and css**
 
 - 📫 How to reach me **nasamujesse@gmail.com**
 
-- ⚡ Fun fact **Web Design is an art**
+- ⚡ Fun fact **"Crafting digital experiences with the precision of artistry, and uncovering insights with the intuition of a gifted analyst."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
