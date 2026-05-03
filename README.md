@@ -9,8 +9,7 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Machine Learning-Based Malware Detection for IoT Healthcare Systems**
-- 🌱 Learning **Backend Development & Advanced Machine Learning**
+- 🔭 Worked on **Machine Learning-Based Malware Detection for IoT Healthcare Systems**, **Global Layoffs Analysis**, **Bike Sales Project**, **Bike Sales Project**
 - 👯 Open to collaborate on **Cybersecurity, Data Analysis, and Web Development projects**
 - 💬 Ask me about **Python, SQL, Power BI, Figma, HTML, CSS**
 - 📫 Reach me at: **nasamujesse@gmail.com**
@@ -35,21 +34,44 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 - 📊 Data Analysis (Excel, SQL, Power BI)
 - 🤖 Machine Learning (Scikit-learn, Model Building)
 - 🎨 UI/UX Design (Figma, User Research, Prototyping)
-- 💻 Web Development (HTML, CSS, JavaScript, React)
+- 💻 Web Development (HTML, CSS)
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left"> 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</a>
 </p>
 
 ---
