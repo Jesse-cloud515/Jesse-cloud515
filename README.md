@@ -18,12 +18,16 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 ---
 
 ### 🌐 Connect With Me
+<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-<a href="https://twitter.com/jessenasamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jessenasamu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jessenasamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessenasamu" height="30" width="40" /></a>
-<a href="https://fb.com/jessenasamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jessenasamu" height="30" width="40" /></a>
-<a href="https://instagram.com/extraloud1209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extraloud1209" height="30" width="40" /></a>
+
+<a href="https://x.com/JesseNasamu" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/jesse-nasamu003" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
