@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse Nasamu</h1>
-<h3 align="center">Cybersecurity Specialist | Data Analyst | Web Designer</h3>
+<h3 align="center">Cybersecurity Specialist | Data Analyst | Web Designer | Graphic Designer </h3>
 
 <p align="center">
 Crafting secure digital experiences 🔐 + uncovering insights through data 📊
@@ -12,7 +12,7 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 - 🔭 Worked on **Machine Learning-Based Malware Detection for IoT Healthcare Systems**, **Global Layoffs Analysis**, **Bike Sales Project**, **Bike Sales Project**
 - 👯 Open to collaborate on **Cybersecurity, Data Analysis, and Web Development projects**
 - 💬 Ask me about **Python, SQL, Power BI, Figma, HTML, CSS**
-- 📫 Reach me at: **nasamujesse@gmail.com**
+- 📫 Reach me at: **nasamujesse@yahoo.com**
 - ⚡ Fun fact: *I blend security thinking with design to build systems that are both safe and user-friendly*
 
 ---
@@ -28,6 +28,11 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 <a href="www.linkedin.com/in/jesse-nasamu003" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+ <!-- Portfolio -->
+  <a href="https://jesse-cloud515.github.io/portfolio/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" 
+    alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -88,8 +93,9 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 - 📊 **Data Analysis Projects**  
   SQL, Excel, and Power BI dashboards uncovering real-world insights  
 
-- 🎓 **Michalo E-Learning Platform**  
-  Designed a user-friendly, accessible learning experience  
+- 🎓 **Web Design and Graphic Design**  
+  Designed intuitive, user-friendly websites, along with visually engaging flyers and business cards.
+
 
 ---
 
