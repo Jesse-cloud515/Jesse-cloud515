@@ -11,7 +11,7 @@ Crafting secure digital experiences 🔐 + uncovering insights through data 📊
 
 - 🔭 Worked on **Machine Learning-Based Malware Detection for IoT Healthcare Systems**, **Global Layoffs Analysis**, **Bike Sales Project**, **Bike Sales Project**
 - 👯 Open to collaborate on **Cybersecurity, Data Analysis, and Web Development projects**
-- 💬 Ask me about **Python, SQL, Power BI, Figma, HTML, CSS**
+- 💬 Ask me about **Python, SQL, Power BI, Figma, HTML, CSS, Excel and Splunk**
 - 📫 Reach me at: **nasamujesse@yahoo.com**
 - ⚡ Fun fact: *I blend security thinking with design to build systems that are both safe and user-friendly*
 
